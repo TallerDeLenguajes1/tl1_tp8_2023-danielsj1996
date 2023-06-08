@@ -1,0 +1,15 @@
+C:\tl1_tp8_2023-danielsj1996\bin\Debug\net7.0\tl1_tp8_2023-danielsj1996.exe
+C:\tl1_tp8_2023-danielsj1996\bin\Debug\net7.0\tl1_tp8_2023-danielsj1996.deps.json
+C:\tl1_tp8_2023-danielsj1996\bin\Debug\net7.0\tl1_tp8_2023-danielsj1996.runtimeconfig.json
+C:\tl1_tp8_2023-danielsj1996\bin\Debug\net7.0\tl1_tp8_2023-danielsj1996.dll
+C:\tl1_tp8_2023-danielsj1996\bin\Debug\net7.0\tl1_tp8_2023-danielsj1996.pdb
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.csproj.AssemblyReference.cache
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.AssemblyInfoInputs.cache
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.AssemblyInfo.cs
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.csproj.CoreCompileInputs.cache
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.dll
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\refint\tl1_tp8_2023-danielsj1996.dll
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.pdb
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\tl1_tp8_2023-danielsj1996.genruntimeconfig.cache
+C:\tl1_tp8_2023-danielsj1996\obj\Debug\net7.0\ref\tl1_tp8_2023-danielsj1996.dll
