@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mamá\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniels\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "C:\\tl1_tp8_2023-danielsj1996\\tl1_tp8_2023-danielsj1996.csproj",
       "projectName": "tl1_tp8_2023-danielsj1996",
       "projectPath": "C:\\tl1_tp8_2023-danielsj1996\\tl1_tp8_2023-danielsj1996.csproj",
-      "packagesPath": "C:\\Users\\Mamá\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Daniels\\.nuget\\packages\\",
       "outputPath": "C:\\tl1_tp8_2023-danielsj1996\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mamá\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Daniels\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
