@@ -23,7 +23,7 @@ static void GuardarArchivosCSV(List<string> files, string csvRuta)
 {
     using (StreamWriter writer = new StreamWriter(csvRuta))
     {
-        writer.WriteLine("Indice"+" "+"Nombre"+" "+"Extension");
+        writer.WriteLine("Indice,Nombre,Extension");
 
         for (int i = 0; i < files.Count; i++)
         {
